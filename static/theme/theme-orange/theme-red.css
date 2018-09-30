@@ -1,0 +1,65 @@
+/* 等待开学时钟图片start */
+.theme-orange-study-waiting-clockimg{
+    background-image:url('https://static.pandateacher.com/1.png') !important;
+}
+/* 等待开学时钟图片end */
+
+
+.bgimg_completed{
+    background-image:url('https://static.pandateacher.com/2.png') !important;
+}
+
+/* 课程详情页面的挑战背景图片start */
+.challengeFalsebgImg{
+    background-image:url('https://static.pandateacher.com/3.png') !important;
+}
+.challengeTruebgImg{
+    background-image:url('https://static.pandateacher.com/4.png') !important;
+}
+/* 课程详情页面的挑战背景图片end */
+
+/* 挑战详情页面的背景图片start */
+#challenge-active-bg{
+    background-image:url('https://static.pandateacher.com/5.png') !important;
+}
+#challenge-disabled-bg{
+    background-image:url('https://static.pandateacher.com/6.png') !important;
+}
+/* 挑战详情页面的背景图片end */
+
+/* 底部导航栏图标颜色配置 */
+.theme-orange-nav-icon.active.study{
+  background: url('https://static.pandateacher.com/7.svg') no-repeat center/cover !important;
+}
+.theme-orange-nav-icon.active.course{
+  background: url('https://static.pandateacher.com/8.svg') no-repeat center/cover !important;
+}
+.theme-orange-nav-icon.active.user{
+  background: url('https://static.pandateacher.com/9.svg') no-repeat center/cover !important;
+}
+.theme-orange-nav-icon.active.training{
+  background: url('https://static.pandateacher.com/10.svg') no-repeat center/cover !important;
+}          
+/* before伪元素的背景图片 start*/
+.theme-orange-pseudoBgClass:before{
+  background-color: #666666 !important;
+}
+/* before伪元素的背景图片 end*/
+
+/* 设置字体颜色start*/
+.theme-orange-fontColor{
+    color: #666666 !important;
+}
+/* 设置字体颜色end*/
+
+/* 设置背景颜色start*/
+.theme-orange-bgColor{
+    background-color:#666666 !important;
+} 
+/* 设置背景颜色end */
+
+/* 设置边框颜色 start */
+.theme-orange-borderColor{
+    border: 1px solid #666666 !important;
+}
+/* 设置边框颜色end */

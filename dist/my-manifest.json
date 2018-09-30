@@ -1,0 +1,7 @@
+{
+  "name": "My Manifest",
+  "/dist/app.js": "app.bundle.js",
+  "/dist/print.js": "print.bundle.js",
+  "/dist/icon.jpg": "5e024742780c149356f49fd81764f950.jpg",
+  "/dist/index.html": "index.html"
+}

@@ -1,0 +1,65 @@
+/* 等待开学时钟图片start */
+.theme-orange-study-waiting-clockimg{
+    background-image:url('https://static.pandateacher.com/28723bc3-7c77-4a8a-9c39-c0f4e087bb28.png') !important;
+}
+/* 等待开学时钟图片end */
+
+
+.bgimg_completed{
+    background-image:url('https://static.pandateacher.com/aed30383-60bb-4275-a2d5-7ecad2591889.png') !important;
+}
+
+/* 课程详情页面的挑战背景图片start */
+.challengeFalsebgImg{
+    background-image:url('https://static.pandateacher.com/aeae64b3-1ab4-49f7-b9a5-c970b43debf8.png') !important;
+}
+.challengeTruebgImg{
+    background-image:url('https://static.pandateacher.com/080b6bda-fa61-478b-8b23-6a39cd03e804.png') !important;
+}
+/* 课程详情页面的挑战背景图片end */
+
+/* 挑战详情页面的背景图片start */
+#challenge-active-bg{
+    background-image:url('https://static.pandateacher.com/add1ddcc-9d2f-4c00-8c8f-5b0b7fa2ebfa.png') !important;
+}
+#challenge-disabled-bg{
+    background-image:url('https://static.pandateacher.com/1d143baa-e83d-424a-ab4a-4de95b61fc79.png') !important;
+}
+/* 挑战详情页面的背景图片end */
+
+/* 底部导航栏图标颜色配置 */
+.theme-orange-nav-icon.active.study{
+  background: url('https://static.pandateacher.com/89ea0674-29bb-42e6-a96e-8f218d528104.svg') no-repeat center/cover !important;
+}
+.theme-orange-nav-icon.active.course{
+  background: url('https://static.pandateacher.com/bc99c88b-b2fc-434e-a237-bb436adec23a.svg') no-repeat center/cover !important;
+}
+.theme-orange-nav-icon.active.user{
+  background: url('https://static.pandateacher.com/37f50fec-20ed-4e7e-9787-b92ddbf762f4.svg') no-repeat center/cover !important;
+}
+.theme-orange-nav-icon.active.training{
+  background: url('https://static.pandateacher.com/324693e8-b504-4e98-a190-edd981cd989a.svg') no-repeat center/cover !important;
+}          
+/* before伪元素的背景图片 start*/
+.theme-orange-pseudoBgClass:before{
+  background-color: #e94d2e !important;
+}
+/* before伪元素的背景图片 end*/
+
+/* 设置字体颜色start*/
+.theme-orange-fontColor{
+    color: #e94d2e !important;
+}
+/* 设置字体颜色end*/
+
+/* 设置背景颜色start*/
+.theme-orange-bgColor{
+    background-color:#e94d2e !important;
+} 
+/* 设置背景颜色end */
+
+/* 设置边框颜色 start */
+.theme-orange-borderColor{
+    border: 1px solid #e94d2e !important;
+}
+/* 设置边框颜色end */
