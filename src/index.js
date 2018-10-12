@@ -15,5 +15,9 @@ function component() {
     element.appendChild(img);
     return element;
   }
-  
+var a={
+  'a':'a',
+  'b':'b'
+} 
+export {a} 
   document.body.appendChild(component());

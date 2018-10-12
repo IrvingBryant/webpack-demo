@@ -1,5 +1,5 @@
 /* 等待开学时钟图片start */
-.theme-red-study-waiting-clockimg{
+.theme-green-study-waiting-clockimg{
     background-image:url('https://static.pandateacher.com/asdsadas12.png') !important;
 }
 /* 等待开学时钟图片end */
@@ -28,38 +28,38 @@
 /* 挑战详情页面的背景图片end */
 
 /* 底部导航栏图标颜色配置 */
-.theme-red-nav-icon.active.study{
+.theme-green-nav-icon.active.study{
   background: url('https://static.pandateacher.com/7.svg') no-repeat center/cover !important;
 }
-.theme-red-nav-icon.active.course{
-  background: url('https://static.pandateacher.com/82.svg') no-repeat center/cover !important;
+.theme-green-nav-icon.active.course{
+  background: url('https://static.pandateacher.com/18.svg') no-repeat center/cover !important;
 }
-.theme-red-nav-icon.active.user{
+.theme-green-nav-icon.active.user{
   background: url('https://static.pandateacher.com/37f50fec-20ed-4e7e-9787-b92ddbf762f4.svg') no-repeat center/cover !important;
 }
-.theme-red-nav-icon.active.training{
+.theme-green-nav-icon.active.training{
   background: url('https://static.pandateacher.com/324693e8-b504-4e98-a190-edd981cd989a.svg') no-repeat center/cover !important;
 }          
 /* before伪元素的背景图片 start*/
-.theme-red-pseudoBgClass:before{
-  background-color: red !important;
+.theme-green-pseudoBgClass:before{
+  background-color: green !important;
 }
 /* before伪元素的背景图片 end*/
 
 /* 设置字体颜色start*/
-.theme-red-fontColor{
-    color: red !important;
+.theme-green-fontColor{
+    color: green !important;
 }
 /* 设置字体颜色end*/
 
 /* 设置背景颜色start*/
-.theme-red-bgColor{
-    background-color:red !important;
+.theme-green-bgColor{
+    background-color:green !important;
 } 
 /* 设置背景颜色end */
 
 /* 设置边框颜色 start */
-.theme-red-borderColor{
-    border: 1px solid red !important;
+.theme-green-borderColor{
+    border: 1px solid green !important;
 }
 /* 设置边框颜色end */
