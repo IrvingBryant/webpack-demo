@@ -16,7 +16,7 @@
 ### 1. 首先配置换肤对象changestyle.conf.js
 1.以下只需更改theme-color为对应的值（**如财富管理theme-color为theme-blue**）
 
-2.imgHashArray对象key:value 将对应图片[熊猫书院后台管理系统](http://zhipo.pandateacher.com/login)的哈希值，配置在对象的key上即可
+2.imgHashArray对象key:value 将对应图片的哈希值，配置在对象的key上即可
 ```javascript
     var objTheme={
     themeArray:[
